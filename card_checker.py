@@ -1,3 +1,6 @@
+# A program that verify your 16 digit debit/credit card number as valid or not and for valid number shows
+# name of authority issued it.
+
 # Vefify check for name of issuer there are many issuer which are not listed below
 def verify(p,q,r,s):
 	if(p==5):
