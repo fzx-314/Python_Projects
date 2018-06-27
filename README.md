@@ -1,2 +1,2 @@
 # Python_Projects
-Some python Projects
+Some python Projects having pratical use
